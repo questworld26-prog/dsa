@@ -1,4 +1,4 @@
-package TwoPointer;
+package twopointer;
 
 public class DuplicateTwoPointer {
 

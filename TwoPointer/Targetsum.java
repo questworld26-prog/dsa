@@ -1,4 +1,5 @@
-package TwoPointer;
+package twopointer;
+
 
 class TargetSum {
     
