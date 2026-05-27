@@ -22,6 +22,8 @@ class TargetSum {
         }
     }
 
+    // Time complexity: O(n) - we traverse the array at most once.
+    // Space complexity: O(1) - we use only a constant amount of extra space
     private static int[] twoSum(int[] nums, int target) {
         if(nums == null || nums.length < 2) {
             return new int[ ]{-1, -1};
